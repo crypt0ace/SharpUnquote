@@ -1,4 +1,6 @@
-﻿using System.Collections.Generic;
+// https://stackoverflow.com/a/54943087
+
+using System.Collections.Generic;
 using System.Linq;
 
 namespace Utilities
