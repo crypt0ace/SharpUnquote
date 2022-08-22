@@ -23,6 +23,7 @@ namespace UnquotedServicePath
 
                 if (path[0] != '"' && !path.Contains("system32") && !path.Contains("System32"))
                 {
+//                     https://stackoverflow.com/a/54943087
                     var t = new TablePrinter("Service Name", "Service Path");
                     t.AddRow(svcs.ServiceName, path);
                     t.Print();
