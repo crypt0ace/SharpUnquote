@@ -1,0 +1,11 @@
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\UnquotedServicePath\bin\Release\UnquotedServicePath.exe.config
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\UnquotedServicePath\bin\Release\UnquotedServicePath.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\UnquotedServicePath\bin\Release\UnquotedServicePath.pdb
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\UnquotedServicePath\bin\Release\System.ServiceProcess.ServiceController.dll
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\UnquotedServicePath\bin\Release\System.ServiceProcess.ServiceController.xml
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\UnquotedServicePath\obj\Release\UnquotedServicePath.csproj.AssemblyReference.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\UnquotedServicePath\obj\Release\UnquotedServicePath.csproj.SuggestedBindingRedirects.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\UnquotedServicePath\obj\Release\UnquotedServicePath.csproj.CoreCompileInputs.cache
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\UnquotedServicePath\obj\Release\UnquotedServicePath.csproj.CopyComplete
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\UnquotedServicePath\obj\Release\UnquotedServicePath.exe
+C:\Users\crypt0ace\Desktop\VisualStudio\Offensive-CSharp\UnquotedServicePath\obj\Release\UnquotedServicePath.pdb
